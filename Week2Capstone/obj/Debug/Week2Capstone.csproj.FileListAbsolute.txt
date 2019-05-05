@@ -1,0 +1,7 @@
+D:\C#\Labs\Week2Capstone\Week2Capstone\obj\Debug\Week2Capstone.csprojAssemblyReference.cache
+D:\C#\Labs\Week2Capstone\Week2Capstone\obj\Debug\Week2Capstone.csproj.CoreCompileInputs.cache
+D:\C#\Labs\Week2Capstone\Week2Capstone\bin\Debug\Week2Capstone.exe.config
+D:\C#\Labs\Week2Capstone\Week2Capstone\bin\Debug\Week2Capstone.exe
+D:\C#\Labs\Week2Capstone\Week2Capstone\bin\Debug\Week2Capstone.pdb
+D:\C#\Labs\Week2Capstone\Week2Capstone\obj\Debug\Week2Capstone.exe
+D:\C#\Labs\Week2Capstone\Week2Capstone\obj\Debug\Week2Capstone.pdb
